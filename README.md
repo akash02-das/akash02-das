@@ -41,7 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: Exploring Technical Stuffs.
 
-- :zap: In my free time, I solve problems on Leetcode, learn new tech stuffs and read tech articles.
+- :zap: In my free time, play table tenis, learn new tech stuffs, read tech articles and books.
 
 - 😁 I’m currently learning everything.
 
