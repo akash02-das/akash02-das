@@ -45,7 +45,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 😁 I’m currently learning everything.
 
-- 💬 Ask me about Javascript or any tech related stuff.
+- 💬 Ask me about any tech related stuff.
 
 - 🤡 Fun fact: I do believe in extraterrestrial life 👽
 
