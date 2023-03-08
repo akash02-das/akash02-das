@@ -47,7 +47,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 💬 Ask me about any tech related stuff.
 
-- 🤡 Fun fact: I do believe in extraterrestrial life 👽
+- 🤡 Fun fact: I want to die on Mars 🔴🌌
 
 <br>
 
