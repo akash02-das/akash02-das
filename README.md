@@ -7,8 +7,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    
-  <a href="https://www.instagram.com/akash_ds02/">
-   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://akash-das.netlify.app/">
+   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Browse Badge"/>
   </a>
    
   <a href="https://twitter.com/Akash02Das">
