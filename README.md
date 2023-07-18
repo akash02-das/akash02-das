@@ -25,7 +25,7 @@
  <img src="https://komarev.com/ghpvc/?username=akash02-das&style=flat-square&color=blue" alt=""/>
   
  <h3>
-  Hola folks, This is Akash Das 
+  Hello World, This is Akash Das 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  </h3>
   
@@ -35,19 +35,19 @@
 </div>
 
 ### 🐼 About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+A passionate Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Stuffs.
+- :seedling: Love to explore tech-related stuff.
 
-- :zap: In my free time, play table tenis, learn new tech stuffs, read tech articles and books.
+- :zap: In my free time, I learn new tech stuff, read tech-related articles, and books and play table tennis.
 
 - 😁 I’m currently learning everything.
 
-- 💬 Ask me about any tech related stuff.
+- 💬 Ask me any questions about Javascript.
 
-- 🤡 Fun fact: I want to die on Mars 🔴🌌
+- 🤡 Fun fact: I want to die in the Mars 🔴🌌
 
 <br>
 
